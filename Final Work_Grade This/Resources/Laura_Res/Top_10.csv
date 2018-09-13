@@ -1,0 +1,11 @@
+﻿Violation Code,Violation Description,Short Description,Violation Count, Amount ,Projected Revenue,Towable
+P281,Failure to Display a Multispace Meter Receipt,Failure to Display Meter Ticket,161265,$25.00 ,4031625.00,FALSE
+P039,Park at Expired Meter,Parked at Expired Meter,144967,$25.00 ,3624175.00,FALSE
+P012,Disobeying Official Sign,Disobeying Official Sign,97544,$30.00 ,2926320.00,TRUE
+P003,Residential Permit Pking Beyond Limit W/O Permit,"Residential Parking Without Permit, Time Violation",96849,$30.00 ,2905470.00,FALSE
+P173,No Parking Street Cleaning,No Parking for Street Cleaning,85162,$45.00 ,3832290.00,TRUE
+P259,No Stopping or Standing in PM Rush Hour Zone,Rush Hour Zone Violation,67802,$100.00 ,6780200.00,TRUE
+P170,Failure to Dsiplay Current Tags,Failure to Dsiplay Current Tags,67126,$100.00 ,6712600.00,TRUE
+P055,No Parking Anytime,No Parking Anytime,52995,$30.00 ,1589850.00,TRUE
+P031,Unauthorized Vehicle in Loading Zone,Parking in Loading Zone,42734,$50.00 ,2136700.00,TRUE
+P172,Failure to Secure DC Tags,Failure to Secure DC Tags,42728,$100.00 ,4272800.00,TRUE
